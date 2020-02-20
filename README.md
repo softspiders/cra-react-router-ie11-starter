@@ -1,7 +1,5 @@
 # cra-react-router-ie11-starter
 
-cra-react-router-ie11-starter
-
 UNDER DEVELOPMENT
 
 ## Feature tags
@@ -10,3 +8,7 @@ UNDER DEVELOPMENT
 - react-router
 - starter
 - template
+
+## Direct ancestors
+
+https://github.com/softspiders/react-router-starter
