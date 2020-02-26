@@ -1,6 +1,6 @@
 # cra-react-router-ie11-starter
 
-UNDER DEVELOPMENT
+Simple starter using react-router for navigation ie11 compatible.
 
 ## Feature tags
 - cra
@@ -8,6 +8,30 @@ UNDER DEVELOPMENT
 - react-router
 - starter
 - template
+
+---
+
+## Author
+
+[Serg Rajab](https://github.com/SergRajab)
+
+---
+
+## Install
+
+npm i
+
+---
+
+## Run
+
+npm start
+
+---
+
+### License
+
+Licensed under the [MIT license](./LICENSE). 
 
 ## Direct ancestors
 
