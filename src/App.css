@@ -1,0 +1,45 @@
+
+
+.nav {
+  list-style: none;
+  margin: 0;
+  margin-left: -40px;
+}
+
+.nav li {
+  zoom: 1;
+}
+
+.nav li a {
+  display: block;
+  padding: 10px 5px 10px 15px;
+  background: #444;
+  border-bottom: 1px solid #333;
+  color: #ccc;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+}
+
+.active {
+  background: cadetblue !important;
+  font-weight: bold;
+  color: rgb(255, 255, 255) !important;
+}
+
+.leftPanel {
+  width: 200px;
+  float: left;
+  margin-right: 10px;
+}
+
+.maimPanel {
+  float: left;
+  width: 100%;
+}
+
+.parent > div {
+    float: left;
+    margin-right: 2%;
+    padding: 10px;
+}
